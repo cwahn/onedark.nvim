@@ -47,7 +47,7 @@ end
 
 local default_config = {
 	-- Main options --
-	style = "standard", -- choose between 'standard', 'night_flat', 'mix', 'flat', 'darker'
+	style = "night_flat", -- choose between 'standard', 'night_flat', 'mix', 'flat', 'darker'
 	toggle_style_key = nil,
 	toggle_style_list = M.styles_list,
 	transparent = false, -- don't set background
